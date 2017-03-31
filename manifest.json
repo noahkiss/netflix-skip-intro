@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Netflix Skip Intro",
+  "version": "0.1.0",
+  "description": "Auto-skip intro on supported Netflix series",
+
+  "content_scripts": [{
+    "js": ["netflix-skip-intro.user.js"],
+    "matches": ["https://www.netflix.com/watch/*"]
+  }]
+
+}
