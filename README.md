@@ -2,7 +2,7 @@
 Auto-skip Netflix intro on supported series
 
 ### Extension
-
+[Chrome - Netflix Skip Intro](https://chrome.google.com/webstore/detail/netflix-skip-intro/ljekjikpaonjihlpllojbdacdenmnfpn)
 
 ### Userscript
 Required for install:
