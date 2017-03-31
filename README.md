@@ -1,6 +1,10 @@
 # netflix-skip-intro
-Userscript to auto skip Netflix intro
+Auto-skip Netflix intro on supported series
 
+### Extension
+
+
+### Userscript
 Required for install:
 
 Firefox: [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
