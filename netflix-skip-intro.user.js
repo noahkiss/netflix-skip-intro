@@ -4,7 +4,7 @@
 // @author       Noah Kiss
 // @description  Auto-skip intro on supported Netflix series
 // @version      0.1.1
-// @include      https://www.netflix.com/watch*
+// @include      https://www.netflix.com*
 // @grant        none
 // ==/UserScript==
 

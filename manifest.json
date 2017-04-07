@@ -12,7 +12,7 @@
 
   "content_scripts": [{
     "js": ["netflix-skip-intro.user.js"],
-    "matches": ["https://www.netflix.com/watch/*"],
+    "matches": ["https://www.netflix.com*"],
     "run_at": "document_start"
   }]
 
