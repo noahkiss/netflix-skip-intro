@@ -3,7 +3,7 @@
 // @namespace    http://noahkiss.me/
 // @author       Noah Kiss
 // @description  Auto-skip intro on supported Netflix series
-// @version      0.1.1
+// @version      0.1.2
 // @include      https://www.netflix.com*
 // @grant        none
 // ==/UserScript==
