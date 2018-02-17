@@ -28,7 +28,7 @@ setInterval(function () {
     if (!document.querySelector(divname).classList.contains(classname)) {
       var time_delta = new Date() - time_pressed;
       if (time_pressed === null || time_delta > guard_interval) {
-        document.querySelector(button).click();
+        document.querySelector(buttonname).click();
         time_pressed = new Date();
       }
     }
